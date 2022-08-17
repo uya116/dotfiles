@@ -11,3 +11,5 @@
 - [ghq](https://github.com/x-motemen/ghq)
 - [peco](https://github.com/peco/peco)
 
+## nvim
+- [dein.vim](https://github.com/Shougo/dein.vim)
