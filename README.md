@@ -1,5 +1,13 @@
 # dotfiles
 
+## usage
+
+```
+ln -s <this>/fish/config.fish fish/config.fish
+ln -s <this>/nvim nvim
+ln -s <this>/tmux tmux
+```
+
 ## fish
 - [Fish shell](https://fishshell.com/)
 - [Fisher](https://github.com/jorgebucaran/fisher)
