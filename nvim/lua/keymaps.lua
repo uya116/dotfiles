@@ -6,4 +6,5 @@ local keymap = vim.keymap.set
 -- bufferの移動
 keymap("n", "<C-n>", ":bnext<Return>", opts)
 keymap("n", "<C-p>", ":bprevious<Return>", opts)
+
 keymap("n", "<M-n>", ":Neotree<Return>", opts)
