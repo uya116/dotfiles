@@ -12,4 +12,8 @@ alias k='kubectl'
 alias kg='kubectl get'
 alias kd='kubectl describe'
 alias g='git'
-alias ls='exa'
+
+# exa
+alias ls='exa --icons --git'
+alias lt='exa -T -L 3 -a -I "node_modules|.git|.cache" --icons'
+alias ltl='exa -T -L 3 -a -I "node_modules|.git|.cache" -l --icons'
