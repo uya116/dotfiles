@@ -3,9 +3,9 @@
 ## usage
 
 ```
-ln -s <this>/fish/config.fish fish/config.fish
-ln -s <this>/nvim nvim
-ln -s <this>/tmux tmux
+ln -s <this>/fish/config.fish ~/.config/fish/config.fish
+ln -s <this>/nvim ~/.config/nvim
+ln -s <this>/tmux ~/.config/tmux
 ```
 
 ## fish
